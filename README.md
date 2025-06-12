@@ -1,5 +1,7 @@
 # chatbots-for-document-based-Q-A.
 
+### FIRST INSTALL LL THE DEPENDENCIES USING pip install requirements.txt
+
 🔹 Summary of the Notebook
 Purpose:
 To create a vector-based document retrieval system using ChromaDB and integrate it with a Generative AI model for intelligent querying and responses.
