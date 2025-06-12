@@ -1,6 +1,9 @@
 # chatbots-for-document-based-Q-A.
 
 ### FIRST INSTALL LL THE DEPENDENCIES USING pip install requirements.txt
+### FOR RUN A FILE TYPE streamlit run rags.py
+
+
 
 🔹 Summary of the Notebook
 Purpose:
